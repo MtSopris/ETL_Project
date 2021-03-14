@@ -1,9 +1,9 @@
-,park_code,national_park,latitude,longitude
-14,DENA,Denali National Park,63.33,-150.5
-18,GAAR,Gates of the Arctic National Park,67.78,-153.3
-20,GLBA,Glacier Bay National Park,58.5,-137.0
-32,KATM,Katmai National Park,58.5,-155.0
-33,KEFJ,Kenai Fjords National Park,59.92,-149.65
-34,KOVA,Kobuk Valley National Park,67.55,-159.28
-35,LACL,Lake Clark National Park,60.97,-153.42
-52,WRST,Wrangell - St Elias National Park,61.0,-142.0
+,park_code,national_park,latitude,longitude,nearest city
+14,DENA,Denali National Park,63.33,-150.5,Wasilla
+18,GAAR,Gates of the Arctic National Park,67.78,-153.3,College
+20,GLBA,Glacier Bay National Park,58.5,-137.0,Sitka
+32,KATM,Katmai National Park,58.5,-155.0,Saint Paul Harbor
+33,KEFJ,Kenai Fjords National Park,59.92,-149.65,Sterling
+34,KOVA,Kobuk Valley National Park,67.55,-159.28,Barrow
+35,LACL,Lake Clark National Park,60.97,-153.42,Homer
+52,WRST,Wrangell - St Elias National Park,61.0,-142.0,Haines Junction
